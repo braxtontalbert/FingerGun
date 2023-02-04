@@ -8,7 +8,8 @@ using ThunderRoad;
 
 namespace FingerGun
 {
-    public class FingerGunSpell :
+    public class FingerGunSpell : SpellCastCharge
     {
+
     }
 }
